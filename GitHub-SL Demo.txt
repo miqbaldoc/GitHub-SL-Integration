@@ -1,3 +1,0 @@
-This is a sample txt file to demonstrate the SL-GH integration.
-
-File updated further. Demonstrate the Update file through GH feature.
