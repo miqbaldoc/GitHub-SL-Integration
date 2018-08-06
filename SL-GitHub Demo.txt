@@ -1,1 +1,3 @@
-This file is added in SnapLogic
+This file is added in SnapLogic.
+
+This file is updated with more text to show the update feature.
